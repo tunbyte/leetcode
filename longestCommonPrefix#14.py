@@ -24,10 +24,7 @@ class Solution:
 
 
 
-inp = [
-    'salam',
-    'meleyki'
-]
+inp = ["flower","flow","flight"]
 
 sol = Solution().longestCommonPrefix(inp)
 print(sol)
