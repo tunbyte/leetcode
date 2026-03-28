@@ -29,7 +29,7 @@ class Solution:
         return v
 
 
-inp = "LVIII"
+inp = "III"
 
 sol = Solution().romanToTnt(inp)
 print(sol)
